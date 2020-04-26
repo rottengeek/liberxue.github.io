@@ -1,14 +1,15 @@
 ---
 layout: blog
 book: false
-background-image: http://ot1cc1u9t.bkt.clouddn.com/17-7-16/91630214.jpg
+background-image: https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=4218016970,2585188894&fm=11&gp=0.jpg
 category: 系统
 title: 常用命令
 tags:
 - 命令
 - linux
+date:   2020-04-27 00:13:54
 redirect_from:
-  - /1970/01/bookindex/
+  - /2020/04/linuxCommand/
 ---
 
 ## Linux命令
